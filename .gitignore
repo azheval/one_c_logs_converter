@@ -1,0 +1,10 @@
+.chglog
+git-chglog.exe
+Makefile
+one_c_logs_converter*
+.gemini
+gemini.md
+/docs/local
+log*.txt
+/config.json
+demo
