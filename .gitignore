@@ -8,3 +8,5 @@ gemini.md
 log*.txt
 /config.json
 demo
+logs
+promtail-data
